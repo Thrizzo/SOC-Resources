@@ -15,6 +15,7 @@
 
 ### ✅ Use MITRE ATT&CK to:
 - Map alerts and incidents to tactics & techniques
+- Identify TTPs for Threat Actors
 - Build detections and threat hunts
 - Plan red/purple team exercises
 - Communicate findings with standard technique IDs (e.g., T1059)
