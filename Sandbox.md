@@ -6,6 +6,13 @@ To savely detonate malware and or analyze files in a secure environemtn, utilize
      -For Windows analysis use Flare VM
      -For Linux use Remnux
 3. Conduct your analysis and record findings
-4. Purge data on host system with Systools Datawipe
+        -Utilize Yara or Snort to check for Malware signatures
+        -DAST Tools for runtime assessments
+        -SAST for code review if possible
+   Be a smart cookie and go to Flares or Remnux webpages for detailed how to guides.
+   https://docs.remnux.org/discover-the-tools/investigate+system+interactions
+   https://cloud.google.com/blog/topics/threat-intelligence/flarevm-open-to-public/
+###I could not find a lot on Flare VM, but it is probaly worth it to do the THM room for both solutions
+5. Purge data on host system with Systools Datawipe
 
  Remember the VMs are snapshotted and use a clean snapshot for each engagement
