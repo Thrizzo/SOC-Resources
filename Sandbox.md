@@ -1,4 +1,4 @@
-#Using the Sandbox#
+# Using the Sandbox #
 
 To savely detonate malware and or analyze files in a secure environemtn, utilize the forensic workstation.
 1. Move the files for analysis in the shared folder on the Desktop-
@@ -12,7 +12,7 @@ To savely detonate malware and or analyze files in a secure environemtn, utilize
    Be a smart cookie and go to Flares or Remnux webpages for detailed how to guides.
    https://docs.remnux.org/discover-the-tools/investigate+system+interactions
    https://cloud.google.com/blog/topics/threat-intelligence/flarevm-open-to-public/
-###I could not find a lot on Flare VM, but it is probaly worth it to do the THM room for both solutions###
+### I could not find a lot on Flare VM, but it is probaly worth it to do the THM room for both solutions ###
 
 5. Purge data on host system with Systools Datawipe
 
